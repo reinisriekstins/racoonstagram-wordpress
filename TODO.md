@@ -1,0 +1,4 @@
+- [ ] Show only "Raksti" and "Ceļā" categories on the main page, see: https://codex.wordpress.org/Plugin_API/Action_Reference/pre_get_posts#Exclude_categories_on_your_main_page
+- [x] Separate pages for categories "Raksti", "Ceļā", "Darbi"
+- [ ] Custom theme, similar to instagram or this page: http://www.creativemuseum.lv
+- [ ] Separate CSS for "Darbi" (I guess)

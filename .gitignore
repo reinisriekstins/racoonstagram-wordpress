@@ -25,3 +25,6 @@ wp-content/plugins/hello.php
 *Thumbs.db
 *.sass-cache*
 *~imageoptim*
+
+# Ignore custom theme, because it will be version controlled separately
+/wp-content/themes/racoonstagram

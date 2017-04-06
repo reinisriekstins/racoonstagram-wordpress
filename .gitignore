@@ -1,14 +1,14 @@
 *.log
-wp-config.php
-wp-content/advanced-cache.php
-wp-content/backup-db/
-wp-content/backups/
-wp-content/blogs.dir/
-wp-content/cache/
-wp-content/upgrade/
-wp-content/uploads/
-wp-content/wp-cache-config.php
-wp-content/plugins/hello.php
+# wp-config.php
+# wp-content/advanced-cache.php
+# wp-content/backup-db/
+# wp-content/backups/
+# wp-content/blogs.dir/
+# wp-content/cache/
+# wp-content/upgrade/
+# wp-content/uploads/
+# wp-content/wp-cache-config.php
+# wp-content/plugins/hello.php
 
 /.htaccess
 /license.txt
@@ -17,7 +17,7 @@ wp-content/plugins/hello.php
 /sitemap.xml.gz
 
 # Also ignoring files recommended here: https://stevegrunwell.github.io/wordpress-git/#/10
-/wp-content/themes/twenty*
+# /wp-content/themes/twenty*
 *.sql
 
 # Hidden files
